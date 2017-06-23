@@ -1,0 +1,20 @@
+{
+  "name": "karma-firefox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "jasmine": "^2.6.0"
+  },
+  "devDependencies": {
+    "karma": "^1.7.0",
+    "karma-firefox-launcher": "^1.0.1",
+    "karma-jasmine": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
